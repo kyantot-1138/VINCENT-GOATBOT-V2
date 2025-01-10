@@ -5,7 +5,7 @@ module.exports.config = {
   name: "autotime",
   version: "3.0.0",
   role: 0,
-  author: "Vincent armenion",//lol dude don't change the author if you change it i will hack your Facebook account👿
+  author: "Kylepogi",//lol dude don't change the author if you change it i will hack your Facebook account👿
   description: "Automatically sends messages based on set times.",
   category: "AutoTime",
   countDown: 3
